@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Discussions
+    url: https://github.com/orgs/tokencube/discussions
+    about: Questions, ideas, and open-ended conversations. Prefer this over an issue when you are not sure you have found a bug.
+  - name: Security vulnerability
+    url: https://github.com/tokencube/.github/blob/main/SECURITY.md
+    about: Do not file a public issue for security reports. Email security@zero.ski instead.

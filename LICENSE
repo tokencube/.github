@@ -1,0 +1,21 @@
+This repository consists primarily of prose documents (org profile,
+community health files, templates). It is licensed under the Creative
+Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+
+  https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+Rationale: CC BY-SA 4.0 is the standard license for documentation and
+narrative content. It preserves attribution, permits commercial use,
+and requires derivative works to be shared under the same terms.
+
+Exceptions:
+
+  - The Contributor Covenant text in CODE_OF_CONDUCT.md is itself
+    licensed under CC BY 4.0 by its authors; it is reproduced here
+    under that license and remains attributable to them.
+
+  - Any code snippets (if added later) are dual-licensed under
+    MIT OR Apache-2.0, matching the policy of the open-source
+    tokencube repositories.
+
+SPDX-License-Identifier: CC-BY-SA-4.0
